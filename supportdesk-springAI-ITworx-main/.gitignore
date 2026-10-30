@@ -1,0 +1,13 @@
+### Editors / IDE (workspace root) ###
+.vscode/
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### OS ###
+.DS_Store
+Thumbs.db
+target/
+.env
+
